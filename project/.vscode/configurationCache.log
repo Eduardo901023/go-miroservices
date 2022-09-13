@@ -1,0 +1,1 @@
+{"buildTargets":["build_auth","build_broker","build_front","down","start","stop","up","up_build"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
